@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Lance</h1>
 <h3 align="center">A passionate software engineer(data engineer) at Bay Area.</h3>
